@@ -1,5 +1,5 @@
 {
-  "name": "vue-kanban-project",
+  "name": "vueKanbanProject",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,6 +10,7 @@
   "dependencies": {
     "@vue/composition-api": "^1.7.1",
     "core-js": "^3.8.3",
+    "firebase": "^8.10.0",
     "pinia": "^2.1.4",
     "vue": "^2.6.14",
     "vuetify": "^2.6.0"
